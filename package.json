@@ -1,0 +1,29 @@
+{
+  "name": "fjale-ne-numra",
+  "version": "0.1.0",
+  "description": "A package that parses a number string into the corresponding number",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/Kreshnik/fjale-ne-numra",
+  "bugs":{
+    "url": "https://github.com/Kreshnik/fjale-ne-numra/issues"
+  },
+  "author": {
+    "name": "Kreshnik Hasanaj"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "fjale-ne-numra",
+    "shqip",
+    "numrat-shqip"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "24.1.0"
+  }
+}
